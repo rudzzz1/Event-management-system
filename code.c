@@ -120,7 +120,7 @@ void existing()
                         break;
             case 2 : if(cur->seatsbooked==0)
                         {
-                            printf("\nNO SEATS BOOKED YET\N");
+                            printf("\nNO SEATS BOOKED YET\n");
                             break;
                         }
                         printf("\nYOUR SEATS\n");
